@@ -3,7 +3,7 @@
 curl -A MS https://webinstall.dev/git | powershell
 
 ## 2. Install vcpkg
-git clone https://github.com/microsoft/vcpkg
+git clone https://github.com/microsoft/vcpkg <br>
 .\vcpkg\bootstrap-vcpkg.bat
 
 ## 3. Install OpenOCD
