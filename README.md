@@ -22,7 +22,7 @@ rustup target install thumbv7m-none-eabi
 vcpkg install libftdi1:x64-windows-static-md libusb:x64-windows-static-md
 
 ## 8. Install cargo flash
-cargo install cargo-flash
+cargo install cargo-flash <br>
 cargo install cargo-embed
 
 ## 9. STLink Driver
