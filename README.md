@@ -1,6 +1,6 @@
-windows 10
-1. Install basic compiler tools
-# Install git, if you don't have it
+# windows 10
+## 1. Install basic compiler tools
+Install git, if you don't have it
 curl -A MS https://webinstall.dev/git | powershell
 
 # Install vcpkg
