@@ -13,7 +13,7 @@ https://gnutoolchains.com/arm-eabi/openocd/
 https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads
 
 ## 5. Install rust
-https://rustup.rs for Windows 10.
+https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe
 
 ## 6. Add the ARM Cortex-M toolchain
 rustup target install thumbv7m-none-eabi
