@@ -1,4 +1,4 @@
-# windows 10 and VSCode
+# Windows 10 + VSCode + Rust + ARM + STM32 + Debug
 ## 1. Install git, if you don't have it
 curl -A MS https://webinstall.dev/git | powershell
 
